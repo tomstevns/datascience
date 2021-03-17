@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC0D-0D1F
+
+ Directory of C:\work\KEA\Data Science\datascience\Probability6
+
+17-03-2021  13:37    <DIR>          .
+17-03-2021  13:37    <DIR>          ..
+17-03-2021  13:42                 0 dummytest.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  253.022.720.000 bytes free
